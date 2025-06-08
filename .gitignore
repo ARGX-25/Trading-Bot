@@ -1,0 +1,8 @@
+.env
+# Add other common Python ignores if you want
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.log
+logs/
